@@ -80,3 +80,7 @@ Terraform, Ansible, Packer, Docker
 В виде результата этой задачи приложите вывод `--version` двух версий терраформа доступных на вашем компьютере 
 или виртуальной машине.
 ```bash
+brew install tfenv
+tfenv install v1.1.7
+```
+![](https://github.com/melnik-evgeniy/07-terraform-01-intro/blob/ebe271e6e2cd816ed620dc2aa81b7e914ca3b2a5/2.jpg?raw=true)
